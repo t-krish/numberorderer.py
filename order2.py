@@ -11,5 +11,5 @@ while True:
 
 ar.sort()
 print(ar)
-#Completed
+
     
